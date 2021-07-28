@@ -5,5 +5,6 @@ public class Demo {
 		System.out.println("Test Demo");
 		System.out.println("Test Demo");
 		System.out.println("Test Demo02");
+		System.out.println("测试专用");
 	}
 }
